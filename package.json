@@ -9,13 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@clerk/nextjs": "^6.35.5",
     "inngest": "^3.47.0",
     "mongoose": "^9.0.0",
     "next": "^16.0.4",
+=======
+    "@clerk/nextjs": "^6.33.3",
+    "inngest": "^3.45.0",
+    "mongoose": "^8.19.2",
+    "next": "^15.5.4",
+>>>>>>> e23eb9ba502a25a5bbe3a8c2cbaea51051c75502
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-hot-toast": "^2.5.1"
+    "react-hot-toast": "^2.5.1",
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
